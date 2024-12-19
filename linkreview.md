@@ -1,0 +1,10 @@
+| Название | Год | Автор | Ссылка | Краткое содержание |
+| -------- |---- | ----- | ------ | ---- |
+|Artflow: Unbiased image style transfer via reversible neural flows|2021|An, Jie and Huang, Siyu and Song, Yibing and Dou, Dejing and Liu, Wei and Luo, Jiebo|[link](https://doi.org/10.48550/arXiv.2103.16877)|-|
+|Adaattn: Revisit attention mechanism in arbitrary neural style transfer|2021|Liu, Songhua and Lin, Tianwei and He, Dongliang and Li, Fu and Wang, Meiling and Li, Xin and Sun, Zhengxing and Li, Qian and Ding, Errui|[link](https://doi.org/10.48550/arXiv.2108.03647)|-|
+|Stytr2: Image style transfer with transformers|2022|Deng, Yingying and Tang, Fan and Dong, Weiming and Ma, Chongyang and Pan, Xingjia and Wang, Lei and Xu, Changsheng|[link](https://doi.org/10.48550/arXiv.2105.14576)|-|
+|Controlling perceptual factors in neural style transfer|2017|Gatys, Leon A and Ecker, Alexander S and Bethge, Matthias and Hertzmann, Aaron and Shechtman, Eli|[link](https://doi.org/10.48550/arXiv.1611.07865)|-|
+Progressive growing of gans for improved quality, stability, and variation|2017|Karras, Tero and Aila, Timo and Laine, Samuli and Lehtinen, Jaakko|[link](https://doi.org/10.48550/arXiv.1710.10196)|-|
+|High-Resolution Image Synthesis with Latent Diffusion Models|2021|Robin Rombach and Andreas Blattmann and Dominik Lorenz and Patrick Esser and Björn Ommer|[link](https://doi.org/10.48550/arXiv.2112.10752)|-|
+|Deep Face Recognition|2015|Omkar M. Parkhi, Andrea Vedaldi, Andrew Zisserman|[link](https://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf)|-|
+|Diatom autofocusing in brightfield microscopy: a comparative study|2000|Pech-Pacheco, J.L. and Cristobal, G. and Chamorro-Martinez, J. and Fernandez-Valdivia, J.|[link](https://ieeexplore.ieee.org/document/903548)|-|
